@@ -21,3 +21,9 @@ function bagi(a, b) {
         return a / b;
     }
 }
+
+// Fungsi untuk modulus dua angka
+function modulus(a, b) {
+    return a % b;
+}
+
