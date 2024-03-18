@@ -1,0 +1,4 @@
+// Fungsi untuk menambahkan dua angka
+function tambah(a, b) {
+    return a + b;
+}
