@@ -2,3 +2,9 @@
 function tambah(a, b) {
     return a + b;
 }
+
+// Fungsi untuk mengurangi dua angka
+function kurang(a, b) {
+    return a - b;
+}
+
