@@ -27,3 +27,18 @@ function modulus(a, b) {
     return a % b;
 }
 
+// Contoh penggunaan fungsi kalkulator
+console.log("Hasil tambah: " + tambah(5, 3)); 
+// Output: Hasil tambah: 8
+
+console.log("Hasil kurang: " + kurang(5, 3)); 
+// Output: Hasil kurang: 2
+
+console.log("Hasil kali: " + kali(5, 3)); 
+// Output: Hasil kali: 15
+
+console.log("Hasil bagi: " + bagi(5, 3)); 
+// Output: Hasil bagi: 1.6666666666666667
+
+console.log("Hasil modulus: " + modulus(5, 3)); 
+// Output: Hasil modulus: 2
