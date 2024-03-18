@@ -8,3 +8,8 @@ function kurang(a, b) {
     return a - b;
 }
 
+// Fungsi untuk mengalikan dua angka
+function kali(a, b) {
+    return a * b;
+}
+
